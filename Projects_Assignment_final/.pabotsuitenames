@@ -1,0 +1,9 @@
+datasources:a9348f4e1fae032778abc97ed4cc0b8d64656c70
+commandlineoptions:97d170e1550eee4afc0af065b78cda302a97674c
+suitesfrom:no-suites-from-option
+file:7e0f7bcba3924ce7426efc79b77615a4c11f92e4
+--suite Projects.Project  2
+--suite Projects.Project 1
+--suite Projects.Project 3
+--suite Projects.Project 4
+--suite Projects.Project 5
